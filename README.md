@@ -1,7 +1,7 @@
 A Simple & Minimalistic Login Page using HTML, CSS.
 .
 .
-Live Preview: https://www.dlogin.netlify.app
+Live Preview: https://login-form-first.vercel.app
 .
 .
 .
